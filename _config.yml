@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Marion Shadbolt"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Metadata expert, data management enthusiast, wrangler, coder, Bioinformatician."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
