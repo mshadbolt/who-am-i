@@ -1,5 +1,5 @@
 ---
-permalink: /Education/
+permalink: /education/
 title: "Education"
 ---
 
