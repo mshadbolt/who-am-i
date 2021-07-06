@@ -1,5 +1,5 @@
 ---
-permalink: /Experience/
+permalink: /experience/
 title: "Experience"
 ---
 
