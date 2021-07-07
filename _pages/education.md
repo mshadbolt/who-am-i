@@ -15,12 +15,21 @@ Thesis mark: 89 (First Class Honours)
 
 ### Skills developed
 
-- <i class="fab fa-python"></i> Python programming
-- <i class="fab fa-r-project"></i> R programming
-- <i class="fas fa-chart-line"></i> Statistical analysis and Visualisations
-- <i class="fab fa-linux"></i> Linux
-- <i class="fas fa-database"></i> Relational database modelling
-- <i class="fas fa-terminal"></i> Command line interface tools
+<i class="fab fa-python"></i> Python programming
+
+<i class="fab fa-r-project"></i> R programming
+
+<i class="fas fa-chart-line"></i> Statistical analysis and Visualisations
+
+<i class="fab fa-linux"></i> Linux
+
+<i class="fas fa-database"></i> Relational database modelling
+
+<i class="fas fa-terminal"></i> Command line interface tools
+
+<i class="fas fa-dna"></i> Broad range of Bioinformatics data types and analysis methods
+
+<i class="fas fa-bug"></i> Non-model organism analysis experience
 
 ### Outcomes
 
