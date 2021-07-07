@@ -7,10 +7,10 @@ toc: true
 ## Bioinformatician
 
 |<i class="fas fa-university"></i> EMBL-EBI|<i class="fas fa-calendar-alt"></i>|
+|<i class="fas fa-users"></i> **Team:** Archival Infrastructure and Technology | **Team lead:** [Tony Burdett](https://www.ebi.ac.uk/about/people/tony-burdett)
+| Project: Human Cell Atlas Data Coordination Platform
 
-<i class="fas fa-users"></i> Archival Infrastructure and Technology - Human Cell Atlas Data Coordination Platform
 
-Team lead: [Tony Burdett](https://www.ebi.ac.uk/about/people/tony-burdett)
 
 ## Research Programmer
 
