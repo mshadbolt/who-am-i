@@ -20,3 +20,23 @@ Thesis mark: 89 (First Class Honours)
 ### Achievements
 
 [Course description](https://study.unimelb.edu.au/find/courses/graduate/master-of-science-bioinformatics/)
+
+## <i class="fas fa-graduation-cap"></i> Bachelor of Science (Hons)
+
+|<i class="fas fa-university"></i> Monash University |<i class="fas fa-calendar-alt"></i> |
+
+### Skills
+
+### Outcomes
+
+### Achievements
+
+## <i class="fas fa-graduation-cap"></i> Bachelor of Science/Bachelor of Arts
+
+|<i class="fas fa-university"></i> Monash University |<i class="fas fa-calendar-alt"></i> |
+
+### Skills
+
+### Outcomes
+
+### Achievements
