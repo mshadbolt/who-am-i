@@ -7,6 +7,8 @@ tags:
   - visualisation
   - communication
   - initiative
+  - dcp
+  - ebi
 ---
 
 That time when I generated graphs for the DCP.
