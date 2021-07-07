@@ -6,8 +6,8 @@ toc: true
 
 ## Bioinformatician
 
-|<i class="fas fa-university"></i> EMBL-EBI|<i class="fas fa-calendar-alt"></i> June 2019-June 2021|
-|<i class="fas fa-project-diagram"></i> **Project:** Human Cell Atlas Data Coordination Platform |
+|<i class="fas fa-university"></i> [EMBL-EBI](https://www.ebi.ac.uk/about/collaborations/human-cell-atlas) |<i class="fas fa-calendar-alt"></i> June 2019-June 2021|
+|<i class="fas fa-project-diagram"></i> **Project:** [Human Cell Atlas Data Coordination Platform](https://data.humancellatlas.org/) |
 |<i class="fas fa-users"></i> **Team:** Archival Infrastructure and Technology | **Team leader:** [Tony Burdett](https://www.ebi.ac.uk/about/people/tony-burdett)
 
 
