@@ -8,10 +8,10 @@ title: "Education"
 
 |<i class="fas fa-university"></i> [University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/master-of-science-bioinformatics/)|<i class="fas fa-calendar-alt"></i> March 2015-November 2016|
 
-<i class="fas fa-clipboard-check"></i> Course Average: 85.6
+<i class="fas fa-clipboard-check"></i> **Course Average:** 85.6
 
 <i class="fas fa-book"></i> **Thesis title:** Recombination dynamics of *Aedes aegypti* under contrasting back-crossing strategies
-Thesis mark: 89 (First Class Honours)
+<i class="fas fa-clipboard-check"></i> Thesis mark: 89 (First Class Honours)
 
 ### Skills developed
 
