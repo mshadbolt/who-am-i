@@ -19,6 +19,7 @@ toc_icon: "briefcase"
 
 ### Outcomes
 
+---
 
 ## Research Programmer
 
