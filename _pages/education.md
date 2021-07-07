@@ -6,24 +6,38 @@ title: "Education"
 
 ## <i class="fas fa-graduation-cap"></i> Master of Science (Bioinformatics)
 
-|<i class="fas fa-university"></i> University of Melbourne|<i class="fas fa-calendar-alt"></i> March 2015-November 2016|
+|<i class="fas fa-university"></i> [University of Melbourne](https://study.unimelb.edu.au/find/courses/graduate/master-of-science-bioinformatics/)|<i class="fas fa-calendar-alt"></i> March 2015-November 2016|
 
 <i class="fas fa-clipboard-check"></i> Course Average: 85.6
 
-<i class="fas fa-book"></i> Thesis title: Recombination dynamics of Aedes aegypti under contrasting back-crossing strategies
+<i class="fas fa-book"></i> **Thesis title:** Recombination dynamics of *Aedes aegypti* under contrasting back-crossing strategies
 Thesis mark: 89 (First Class Honours)
 
-### Skills
+### Skills developed
+
+- <i class="fab fa-python"></i> Python programming
+- <i class="fab fa-r-project"></i> R programming
+- <i class="fas fa-chart-line"></i> Statistical analysis and Visualisations
+- <i class="fab fa-linux"></i> Linux
+- <i class="fas fa-database"></i> Relational database modelling
+- <i class="fas fa-terminal"></i> Command line interface tools
 
 ### Outcomes
 
+
 ### Achievements
+
+[Full Transcipt]()
 
 [Course description](https://study.unimelb.edu.au/find/courses/graduate/master-of-science-bioinformatics/)
 
 ## <i class="fas fa-graduation-cap"></i> Bachelor of Science (Hons)
 
 |<i class="fas fa-university"></i> Monash University |<i class="fas fa-calendar-alt"></i> |
+
+<i class="fas fa-book"></i> **Thesis title:**
+
+**Thesis mark:**  
 
 ### Skills
 
